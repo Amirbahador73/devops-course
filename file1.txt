@@ -1,2 +1,3 @@
+Please concentrate on your goal
 Hello to Git
 Bye Git
